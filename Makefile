@@ -1,6 +1,6 @@
 ## set the paths for a default setup
 all:
-	erl -pa * -s loader start_loader -sname asus_100;
+	erl -pa * -s loader start_loader -sname rpi_1;
 #
 # loader sim
 loader_test:
